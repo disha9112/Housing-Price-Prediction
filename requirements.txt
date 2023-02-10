@@ -1,4 +1,4 @@
-Flask
+flask==1.0.2
 sklearn
 pandas
 numpy
