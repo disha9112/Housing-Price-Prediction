@@ -1,6 +1,11 @@
 gunicorn
-flask==1.0.2
+flask
 scikit-learn
 pandas
 numpy
 matplotlib
+click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
